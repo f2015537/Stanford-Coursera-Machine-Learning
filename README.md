@@ -1,0 +1,1 @@
+My solutions for Stanford's MOOC on machine learning taught by prof Andrew Ng.
